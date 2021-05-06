@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I think _this_ is a very __good__ way to emphasize
+
+But I *also* this migh help **as well**, don't you think?
+
+And what _about **combinations**, uh?_
